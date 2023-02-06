@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and working together at projects.
 - 🌱 I’m currently learning Python and Java.I've studied C, for quite a while!
 - 💞️ I’m looking to collaborate on developing projects.
-- 📫 How to reach me : email - ribamiltom.lima@gmail.com
+- 📫 How to reach me : email - ribamiltom.lima@aluno.uepb.edu.br
 
 <!---
 ribamate/ribamate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
